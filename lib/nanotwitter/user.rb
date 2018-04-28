@@ -10,7 +10,6 @@ class User
   end
 
   def make_tweets(tweets)
-    byebug
     tweets.each {|tweet| Tweet.new(tweet)}
   end
 

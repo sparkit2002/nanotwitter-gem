@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'nanotwitter'
-  s.version = '0.0.3'
+  s.version = '0.1.0'
   s.date = %q{2018-04-27}
   s.summary = 'nanotwitter client'
   s.description = "A client library for Team Error404's Nanotwitter in Cosi 105b"
