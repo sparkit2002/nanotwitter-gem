@@ -8,7 +8,6 @@ class NanoTwitter
 
   def initialize(name,api_token)
     @name = name
-    #@password = password
     @api_token = api_token
 
   end
