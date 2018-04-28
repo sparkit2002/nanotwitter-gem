@@ -1,7 +1,8 @@
-#NanoTwitter Gem#
-###A Gem for Team Error404's NanoTwitter API in Cosi 105b at Brandeis University###
+#NanoTwitter Gem
 
-##Getting Started##
+###A Gem for Team Error404's NanoTwitter API in Cosi 105b at Brandeis University
+
+##Getting Started
 
 To instal NanoTwitter run this in your terminal
 
@@ -15,11 +16,11 @@ require 'nanotwitter'
 ```
 and you are all set!
 
-##Using the Gem##
+##Using the Gem
 
-###initialize###
+###initialize
 
-####to initialize an instance of NanoTwitter:####
+####to initialize an instance of NanoTwitter:
 ```ruby
 client = NanoTwitter.new("<NanoTwitter UserName>","<API Token>")
 ```
