@@ -4,10 +4,10 @@
 
 ## Getting Started
 
-To instal NanoTwitter run this in your terminal
+To install NanoTwitter run this in your terminal
 
 ```
-gem instal nanotwitter
+gem install nanotwitter
 ```
 and in the top of your file that will use the gem require:
 
