@@ -1,8 +1,8 @@
 require 'net/http'
 require 'uri'
 require 'json'
-require 'byebug'
-Dir["./lib/nanotwitter/*.rb"].each {|file| require file}
+require 'nanotwitter/user.rb'
+require 'nanotwitter/tweet.rb'
 
 class NanoTwitter
 

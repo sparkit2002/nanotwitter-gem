@@ -1,6 +1,5 @@
 require 'json'
-require 'byebug'
-Dir["./lib/nanotwitter/*.rb"].each {|file| require file}
+require 'nanotwitter/user.rb'
 
 class Tweet
 
